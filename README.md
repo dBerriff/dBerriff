@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dBerriff. Berriff is my middle name.
+- 👋 David Jones
 - 👀 I’m interested in using Raspberry Pi and Arduino harware to control model railway hardware.
-- 🌱 I’m currently learning Python and MicroPython to build a user interface, and hopefully I2C comms.
+- 🌱 I’m currently learning Python, Tkinter and MicroPython to build a user interface, and hopefully I2C comms.
 - 💞️ I’m looking to collaborate through MERG.
 - 📫 How to reach me: berriff@yahoo.co.uk
 
